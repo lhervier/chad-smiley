@@ -9,4 +9,4 @@ Pour mémoire, l'URL originale était :
   http://chadsmiley.com/chadsmiley/edit-document-fields-6-0-0-code/
 
 Pour savoir comment vous en servir, rendez vous à cette adresse :
-  https://blogsocialcollaboration.wordpress.com/2014/01/08/un-outil-pour-manipuler-les-champs-dun-document-en-une-formula-de-plus-de-300-lignes/?preview=true&preview_id=593&preview_nonce=3cc9b4e532
+  http://blogsocialcollaboration.asi.fr/2014/01/08/un-outil-pour-manipuler-les-champs-dun-document-en-une-formula-de-plus-de-300-lignes/
